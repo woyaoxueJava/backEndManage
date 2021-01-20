@@ -6,4 +6,5 @@ a manage project  start up with zero
 ### vue --version 检查vue是否全局安装成功
 ### npm update -g @vue/cli  yarn global upgrade --lastest @vue/cli 更新cli
 ### vue upgrade 更新项目中cli相关插件
-### git 分支出现问题
+## 快速原型开发
+### 安装 @vue/cli-service-global  yarn global add @vue/cli-service-global

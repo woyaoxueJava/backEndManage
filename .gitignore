@@ -2,3 +2,5 @@
 /node-modules
 #历史文件
 /.history
+# 打包文件
+/bulid
