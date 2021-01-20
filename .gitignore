@@ -1,0 +1,4 @@
+#过滤node_modules文件夹
+/node-modules
+#历史文件
+/.history
